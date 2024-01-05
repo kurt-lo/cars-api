@@ -2,3 +2,5 @@
 # Tailwind CSS
 # AXIOS
 # RAPID API CARS
+# DAISY UI
+# RESPONSIVE
