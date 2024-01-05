@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
     return (
-        <nav>
+        <nav className='fixed w-full top-0 z-10'>
             <div className="navbar bg-base-100 justify-between px-[1rem]">
                 <div className="">
                     <a className="btn btn-ghost text-2xl">CarsAPI</a>
