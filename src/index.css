@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@media (max-width: 500px) {
+    .hero-img{
+        height: 350px;
+        width: 350px;
+    }
+}
