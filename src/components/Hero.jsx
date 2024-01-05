@@ -4,7 +4,7 @@ import hero from '../assets/hero.png'
 const Hero = () => {
     return (
         <section>
-            <div className="hero min-h-[80vh] bg-base-200">
+            <div className="hero min-h-[80vh] mt-[5rem] bg-base-200">
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <img src={hero} className="hero-img h-[600px] w-[700px]" />
                     <div className='text-center lg:text-left'>
